@@ -1,0 +1,2 @@
+C:/Flutter SDK/PartTimeJob/android/app/.cxx/release/236c3o35/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Flutter SDK/PartTimeJob/android/app/.cxx/release/236c3o35/arm64-v8a/CMakeFiles/rebuild_cache.dir

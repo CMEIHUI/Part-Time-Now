@@ -1,0 +1,1 @@
+C:\Flutter SDK\PartTimeJob\android\app\build\intermediates\cxx\release\236c3o35\obj\armeabi-v7a
