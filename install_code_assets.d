@@ -1,0 +1,1 @@
+ C:\\Flutter\ SDK\\PartTimeJob\\.dart_tool\\flutter_build\\3e3b1fd6d6669a86923bd94f537b748b\\native_assets.json: 
